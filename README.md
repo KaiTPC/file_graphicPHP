@@ -32,6 +32,9 @@
 - $_FILES['field_name']['size'] => 上傳的檔案原始大小
 - $_FILES['field_name']['tmp_name'] => 上傳檔案後的暫存資料夾位置
 - $_FILES['field_name']['error'] => 顯示錯誤代碼
+
+
+
 ```
 ### 錯誤代碼(err code):
 
@@ -126,3 +129,20 @@ if(!empty($_FILES['file']['tmp_name'])){
 |imagecolorallocate()|定義一個顏色|int|
 |imagesetpixel()|畫一個點|true/false|
 |imageline()|畫一條線|true/false|
+
+----
+## 尚未push的處理環節
+-**vendor**
+
+composer
+dompdf
+masterminds
+phenx
+sabberworm
+
+
+
+
+
+
+
