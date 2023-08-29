@@ -134,11 +134,15 @@ if(!empty($_FILES['file']['tmp_name'])){
 ## 尚未push的處理環節
 -**vendor**
 
-composer
-dompdf
-masterminds
-phenx
-sabberworm
+Composer
+
+Dompdf
+
+Masterminds
+
+Phenx
+
+Sabberworm
 
 
 
